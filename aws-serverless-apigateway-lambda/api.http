@@ -1,0 +1,9 @@
+@host = http://localhost:3000
+
+POST http://localhost:3000/users/create
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "john doe"
+}

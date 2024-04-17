@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "serverless-offline": "^13.3.3"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "mongoose": "^8.3.2",
+    "serverless-dotenv-plugin": "^6.0.0",
+    "uuid": "^9.0.1",
+    "validator": "^13.11.0"
+  }
+}
